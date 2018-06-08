@@ -10,7 +10,7 @@ namespace Contato1
     {
         static void Main(string[] args)
         {
-
+            Console.ForegroundColor = ConsoleColor.Red;
             ListaContatos lCont = new ListaContatos();
 
             int opcao = 1;
