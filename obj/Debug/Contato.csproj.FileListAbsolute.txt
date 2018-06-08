@@ -1,0 +1,28 @@
+C:\Users\aluno\Desktop\Contato\Contato\bin\Debug\Contato.exe.config
+C:\Users\Italo\Desktop\Contato\Contato\bin\Debug\Contato.exe.config
+C:\Users\Italo\Desktop\Contato\Contato\obj\Debug\Contato.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Desktop\Contato\Contato\bin\Debug\Contato.exe
+C:\Users\Italo\Desktop\Contato\Contato\bin\Debug\Contato.pdb
+C:\Users\Italo\Desktop\Contato\Contato\obj\Debug\Contato.exe
+C:\Users\Italo\Desktop\Contato\Contato\obj\Debug\Contato.pdb
+C:\Users\aluno\Desktop\Contato\Contato\obj\Debug\Contato.exe
+C:\Users\aluno\Desktop\Contato\Contato\obj\Debug\Contato.pdb
+C:\Users\aluno\Desktop\Contato\Contato\bin\Debug\Contato.exe
+C:\Users\aluno\Desktop\Contato\Contato\bin\Debug\Contato.pdb
+C:\Users\aluno\Desktop\Contato\Contato\obj\Debug\Contato.csprojResolveAssemblyReference.cache
+C:\Users\Ariadne\Documents\IFSP\Prof Marco Aurelio\Contato\Contato\bin\Debug\Contato.exe.config
+C:\Users\Ariadne\Documents\IFSP\Prof Marco Aurelio\Contato\Contato\bin\Debug\Contato.exe
+C:\Users\Ariadne\Documents\IFSP\Prof Marco Aurelio\Contato\Contato\bin\Debug\Contato.pdb
+C:\Users\Ariadne\Documents\IFSP\Prof Marco Aurelio\Contato\Contato\obj\Debug\Contato.csprojResolveAssemblyReference.cache
+C:\Users\Ariadne\Documents\IFSP\Prof Marco Aurelio\Contato\Contato\obj\Debug\Contato.csproj.CoreCompileInputs.cache
+C:\Users\Ariadne\Documents\IFSP\Prof Marco Aurelio\Contato\Contato\obj\Debug\Contato.exe
+C:\Users\Ariadne\Documents\IFSP\Prof Marco Aurelio\Contato\Contato\obj\Debug\Contato.pdb
+H:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\bin\Debug\Contato.exe.config
+H:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\obj\Debug\Contato.exe
+H:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\obj\Debug\Contato.pdb
+H:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\bin\Debug\Contato.exe
+H:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\bin\Debug\Contato.pdb
+H:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\obj\Debug\Contato.csprojResolveAssemblyReference.cache
+I:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\bin\Debug\Contato.exe.config
+I:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\obj\Debug\Contato.exe
+I:\ARQUIVOS\ADS - 471\(ED1I4) - ESTRUTURAS DE DADOS II\Contato\Contato\obj\Debug\Contato.pdb
